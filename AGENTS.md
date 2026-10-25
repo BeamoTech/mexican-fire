@@ -62,13 +62,4 @@ Greptile reviews pull requests in this repo. Its feedback is part of the work, n
 
 ### Reporting
 - When you finish a PR, state in your summary: Greptile comments received, how many you fixed, how many you rebutted and why.
-
-
-
-
-
-
-
-
-
-
+- 
